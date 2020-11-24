@@ -6,7 +6,6 @@
 ### I lecture design and programming at Uganda Matyrs University Campuses , to equip middle career students with industrial on-deman skills 
 
 - 📫 How to reach me: wandieinnocent2@gmail.com  💬  Whatsap: +256706382817
-- 🔭 I Have Skills in Front End | UI/UX , Python(Django)| Php(Laravel) , Javascript, Product Management & Project Management. Mobile Frameworks(Ionic/React Native)
 
 
 <!--
