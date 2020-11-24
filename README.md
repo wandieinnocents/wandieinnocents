@@ -1,7 +1,8 @@
 ### WANDIE INNOCENT 👋
 I am a self-driven Software Engineer that is passionate about creating world-class software products and leading highly effective teams. I hold a Second Class Upper , Bachelor's degree in Information Technology & Computing. I am Software , Web & user experience professional with great technical skills and have the ability to lead by example. I value teamwork . I also enjoy contributing ideas to improving team delivery and customer satisfaction. , i also have excellent business management and analytical skills.
 
-##sample word
+I lecture design and programming at Uganda Matyrs University Campuses , to equip middle career students with industrial on-deman skills 
+- 📫 How to reach me: wandieinnocent2@gmail.com | Whatsap: +256706382817
 
 <!--
 **wandieinnocents/wandieinnocents** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
