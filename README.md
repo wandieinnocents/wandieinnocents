@@ -5,6 +5,8 @@
 ### I lecture design and programming at Uganda Matyrs University Campuses , to equip middle career students with industrial on-deman skills 
 
 - 📫 How to reach me: wandieinnocent2@gmail.com  💬  Whatsap: +256706382817
+- 📫 Am currently persuing Masters in Computer Science  💬 Makerere University
+
 
 
 <!--
