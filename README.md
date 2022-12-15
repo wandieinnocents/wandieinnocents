@@ -1,7 +1,7 @@
 ### WANDIE INNOCENT 👋
 
 - 📫 I am a self-driven Software Engineer that is passionate about creating world-class software products and leading highly effective teams. I Graduated with a Bachelor's degree in Information Technology & Computing. I value teamwork and  also enjoy contributing ideas to improving team delivery and customer satisfaction.  I also have excellent business , management and analytical skills.
-- Iam a Full Stack Developer with Skills in Front End | SENIOR UI/UX ,  Php(Laravel) , React.js, React Native,  D3.js ,chart.js , Ionic Framework,  API Design and Development , Python , Human Centred Design (HCD) , Product Management & Project Management (PM).
+- Iam a Full Stack Developer with Skills in Front End |  UI/UX ,  Php(Laravel) , React.js, React Native,  D3.js ,chart.js , Ionic Framework,  API Design and Development , Python , Human Centred Design (HCD) , Product Management & Project Management (PM).
 
 ### I lecture design and programming at Uganda Matyrs University Campuses , to equip middle career students with industrial on-deman skills 
 
